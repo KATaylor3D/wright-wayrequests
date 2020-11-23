@@ -1,1 +1,1 @@
-### All images used in main README
+All images used in main README
