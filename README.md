@@ -6,7 +6,4 @@ Use of Python to scrape a Chicago, IL based animal rescue. Sends new/available a
 _Creating a new gmail is just a safety precaution_
 * Go to https://www.google.com/
 * Click the circular icon in the top_right corner
-* Click add another account
-<p align="center">
-<img src="./img/GoogleStep1.png" width="738">
-</p>
+*
