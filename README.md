@@ -7,5 +7,8 @@ _Creating a new gmail is just a safety precaution_
 * Go to https://www.google.com/
 * Click the circular icon in the top_right corner
 * Click 'Add another account'
-<p><img src="./img/GoogleStep1.png" width="800"></p>
+<p><img src="./img/GoogleStep1.png" align="center" width="800"></p>
 * Click 'Create account. and then click 'For myself'
+<img src="./img/GoogleStep3.png" align="center" width="400"></p>
+* From here fill out the information and press 'Next'
+<img src="./img/GoogleStep3.png" align="center" width="480"></p>
