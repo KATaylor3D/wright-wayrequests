@@ -15,3 +15,4 @@ _Creating a new gmail is just a safety precaution_
 * You will be asked to verify your phone number
 * And agree to Privacy and Terms
 ## Finish setting up our account
+_Some settings will need to be changed to get your account ready to use smtp_
