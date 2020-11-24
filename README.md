@@ -12,3 +12,6 @@ _Creating a new gmail is just a safety precaution_
 <img src="./img/GoogleStep3.png" align="center" width="400"></p>
 * From here fill out the information and press 'Next'
 <img src="./img/GoogleStep4.png" align="center" width="480"></p>
+* You will be asked to verify your phone number
+* And agree to Privacy and Terms
+## Finish setting up our account
