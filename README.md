@@ -14,5 +14,6 @@ _Creating a new gmail is just a safety precaution_
 # <img src="./img/GoogleStep4.png" align="center" width="480"></p>
 * You will be asked to verify your phone number
 * And agree to Privacy and Terms
+_Now your account is created_
 ## Finish setting up our account
 _Some settings will need to be changed to get your account ready to use smtp_
