@@ -1,6 +1,8 @@
 # <p><img src="./img/WrightWayLogo.png" width="24"></p>
 # Wright-WayRequests
 Use of Python to scrape a Chicago, IL based animal rescue. Sends new/available animals via smtp.google server. Then documents animals with SQL.
+# The Point
+This projects is to create a place to practice working on issues. The scope is small but if anyone gets any use out of it that would be cool too.
 # Setup
 ## Create gmail account
 _Creating a new gmail is just a safety precaution_
