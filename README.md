@@ -7,7 +7,7 @@ _Creating a new gmail is just a safety precaution_
 * Go to https://www.google.com/
 * Click the circular icon in the top_right corner
 * Click 'Add another account'
-# <p><img src="./img/GoogleStep3.png" align="center" width="800"></p>
+# <p><img src="./img/GoogleStep1.png" align="center" width="800"></p>
 * Click 'Create account' and then click 'For myself'
 # <img src="./img/GoogleStep3.png" align="center" width="400"></p>
 * From here fill out the information and press 'Next'
@@ -32,3 +32,4 @@ _The App should be Mail and the device can be whatever you are using_
 # <p><img src="./img/GmailSettings4.png" align="center" width="800"></p>
 * Click 'GENERATE' and you will be given your App Password
 # <p><img src="./img/GmailSettings5.png" align="center" width="800"></p>
+_Save this somewhere you will need it later_
