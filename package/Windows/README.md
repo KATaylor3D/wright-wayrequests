@@ -1,4 +1,12 @@
-# Quick rundown
+# How to run
+* In command prompt change directory to where these files are located on your computer
+* Run it by typing python3 main.py
+* Enter in email, smtp.email, and the app password that was generated earlier
+* The initial run will build your database and send all available dogs from the shelter to your emial.
+* _This email will be long_
+* Just leave the script running and anytime the website uploads new dogs they will be sent to you in 3 minutes or less
+## _This is the script to be run with python3 main.py_
+# Quick rundown of files
 ### DBInterface.py
 * First ui for this project _Stopped developing for the automatic email updates_
 ### Email.py
@@ -6,7 +14,6 @@
 ### general.py
 * A couple random alarm test scripts used to indicate a problem scraping
 * The Scraper is throttled to slow down the get requests as to not get banned from the site for being a bot
-## _This is the script to be run with python3 main.py_
 ### main.py
 * The recursive script that contains all the logic
 ### Scraper.py
