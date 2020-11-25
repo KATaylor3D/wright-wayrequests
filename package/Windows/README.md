@@ -6,9 +6,9 @@
 ### general.py
 * A couple random alarm test scripts used to indicate a problem scraping
 * The Scraper is throttled to slow down the get requests as to not get banned from the site for being a bot
+## _This is the script to be run with python3 main.py_
 ### main.py
 * The recursive script that contains all the logic
-## _This is the script to be run with python3 main.py_
 ### Scraper.py
 * The script used to scrape the site
 ### Sqlick.py
