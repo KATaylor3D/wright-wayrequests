@@ -2,7 +2,7 @@
 * In command prompt change directory to where these files are located on your computer
 * Run it by typing python3 main.py
 * Enter in email, smtp.email, and the app password that was generated earlier
-* The initial run will build your database and send all available dogs from the shelter to your emial.
+* The initial run will build your database and send all available dogs from the shelter to your email.
 * _This email will be long_
 * Just leave the script running and anytime the website uploads new dogs they will be sent to you in 3 minutes or less
 ## _This is the script to be run with python3 main.py_
