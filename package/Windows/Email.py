@@ -7,9 +7,9 @@ from Scraper import convert_animal_id_to_link
 import datetime
 
 
-contact_email = input("Email to send new animals to.")
-server_email = input("Gmail used as the smtp.gmail server")
-password = getpass("smtp.gmail server password")
+contact_email = input("Email to send new animals to:  ")
+server_email = input("Gmail used as the smtp.gmail server:  ")
+password = getpass("Smtp.gmail server password:  ")
 
   
 def convert_data_for_email(data_list):
