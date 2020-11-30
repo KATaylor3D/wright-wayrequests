@@ -17,6 +17,13 @@ def while_crash_alarm(func):
         for i in sys.exc_info():
             print(i)
         return False
+        
+def text_timer(text, duration):
+    for i in reversed(range(0, int(duration))):
+        os.system("cls")
+        print(text, i)
+        sleep(1)
+        i -= 1
 
 if __name__ == '__main__':
     print("Not Run Directly")

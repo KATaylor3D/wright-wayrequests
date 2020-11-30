@@ -67,6 +67,16 @@ def site_soup_after_sleep(url):
     soup = BeautifulSoup(site, 'lxml')
     return soup
 
+def return_available_animals(animals):
+    available = []
+    for animal in animals:
+        if animal[2].lower() == "available":
+            available.append(animal)
+    return available
+
+def is_info_complete(animal):
+    return len(animal) == 18
+
 def animal_ids():
     ids = []
     for site in table_urls:
