@@ -1,4 +1,4 @@
-# <p><img src="./img/WrightWayLogo.png" width="900"></p>
+# <p><img src="./img/WrightWayLogo.png" width="700"></p>
 Shelter link - https://wright-wayrescue.org/
 # Wright-WayRequests
 Use of Python to scrape a Chicago, IL based animal rescue. Sends new/available animals via smtp.google server. Then documents animals with SQL.
