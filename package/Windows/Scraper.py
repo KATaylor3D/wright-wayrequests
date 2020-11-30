@@ -144,20 +144,6 @@ def update_data():
         print('Working: ', count)
         count -= 1
 
-# def update_data():
-#     os.system("cls")
-#     db = Sqlick.Database(column_values)
-#     ids = animal_ids()
-#     links = convert_animal_ids_to_links(ids)
-#     count = 3
-#     for l in range(0, 3):
-#         soup = site_soup_after_sleep(links[l])
-#         table_value = get_table_values(soup)
-#         db.add_data(table_value)
-#         os.system("cls")
-#         print('Working: ', count)
-#         count -= 1
-
 def update_last(new_value):
     os.remove("last.txt")
     with open("last.txt", "x") as file:
