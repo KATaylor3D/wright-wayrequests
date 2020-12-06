@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Personnel ignores
-Sqlick.db
-credentials.txt
+.Sqlick.db
+.credentials.txt
