@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Personnal ignores
+# Personnel ignores
 Sqlick.db
+credentials.txt
