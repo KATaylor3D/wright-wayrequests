@@ -8,27 +8,19 @@ import datetime
 import os
 
 
-contact_email = input("Email to send new animals to:  ")
-server_email = input("Gmail used as the smtp.gmail server:  ")
-password = getpass("Smtp.gmail server password:  ")
+# Manual Input
+# contact_email = input("Email to send new animals to:  ")
+# server_email = input("Gmail used as the smtp.gmail server:  ")
+# password = getpass("Smtp.gmail server password:  ")
 
 
-# def get_documents_directory():
-#     current_directory = os.getcwd()
-#     doc_directory = current_directory.split('\\GitHubWrightWay')[0]
-#     return doc_directory
-
-# def get_email_credetials():
-#     return_directory = os.getcwd()
-#     os.chdir(get_documents_directory())
-#     with open('credentials.txt', 'r') as file:
-#         content = file.read()
-#     content = content.split('\n')
-#     os.chdir(return_directory)
-#     return content[0], content[1], content[2]
+def get_email_credetials():
+    with open('credentials.txt', 'r') as file:
+        content = file.read()
+    content = content.split('\n')
+    return content[0], content[1], content[2]
   
-# contact_email, server_email, password = get_email_credetials()
-
+contact_email, server_email, password = get_email_credetials()
 
 
 
