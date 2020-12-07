@@ -27,7 +27,7 @@ def logic():
             if available_animals:
                 Email.send_email(available_animals)
         Sqlick.remove_temp_database()
-        general.text_timer('Message sent\n', 1800)
+        general.text_timer('Message sent\n', 180)
     else:
         general.text_timer("No New Data\n", 180)
 
